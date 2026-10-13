@@ -12,75 +12,54 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lista =====
-[1]Lista       |12:34:27 | 12-10-2026| login OK @listaanatalie | score=990 rank=6185
-[1]Lista       |12:34:27 | 12-10-2026| serverTime=2026-10-12T12:34:27.000Z local=2026-10-12T12:34:27.494Z
+[1]Lista       |12:19:22 | 13-10-2026| login OK @listaanatalie | score=1090 rank=5607
+[1]Lista       |12:19:22 | 13-10-2026| serverTime=2026-10-13T12:19:22.000Z local=2026-10-13T12:19:22.721Z
 --> [1]Lista menjalankan: Claim Daily
-[1]Lista       |12:34:28 | 12-10-2026| daily: OK +10 poin score=1000
---> [1]Lista menjalankan: Auto All Tasks (9 pending)
-[1]Lista       |12:34:30 | 12-10-2026| [1/9] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109623387065646603
-[1]Lista       |12:34:30 | 12-10-2026| delay 10s...
-[1]Lista       |12:34:42 | 12-10-2026| [2/9] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109623435901162487
-[1]Lista       |12:34:42 | 12-10-2026| delay 10s...
-[1]Lista       |12:34:53 | 12-10-2026| [3/9] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109623512113883609
-[1]Lista       |12:34:53 | 12-10-2026| delay 10s...
-[1]Lista       |12:35:05 | 12-10-2026| [4/9] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109623627026014387
-[1]Lista       |12:35:05 | 12-10-2026| delay 10s...
-[1]Lista       |12:35:17 | 12-10-2026| [5/9] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Lista       |12:35:17 | 12-10-2026| delay 10s...
-[1]Lista       |12:35:28 | 12-10-2026| [6/9] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109623628492657779
-[1]Lista       |12:35:28 | 12-10-2026| delay 10s...
-[1]Lista       |12:35:40 | 12-10-2026| [7/9] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109623447088740029
-[1]Lista       |12:35:40 | 12-10-2026| delay 10s...
-[1]Lista       |12:35:51 | 12-10-2026| [8/9] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109623541590969902
-[1]Lista       |12:35:51 | 12-10-2026| delay 10s...
-[1]Lista       |12:36:03 | 12-10-2026| [9/9] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Lista       |12:36:03 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lista       |12:36:04 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/listaanatalie/status/2109623520672060736
+[1]Lista       |12:19:23 | 13-10-2026| daily: OK +10 poin score=1100
+--> [1]Lista menjalankan: Auto All Tasks (4 pending)
+[1]Lista       |12:19:25 | 13-10-2026| [1/4] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109981874710440259
+[1]Lista       |12:19:25 | 13-10-2026| delay 10s...
+[1]Lista       |12:19:38 | 13-10-2026| [2/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109982122360981986
+[1]Lista       |12:19:38 | 13-10-2026| delay 10s...
+[1]Lista       |12:19:50 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/listaanatalie/status/2109981821864671002
+[1]Lista       |12:19:50 | 13-10-2026| delay 10s...
+[1]Lista       |12:20:03 | 13-10-2026| [4/4] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Lista       |12:20:03 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lista       |12:20:04 | 13-10-2026| [1/1] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/listaanatalie/status/2109981877608083320
 --> [1]Lista menjalankan: Watch Anime
-[1]Lista       |12:36:05 | 12-10-2026| watch: 1 video belum completed: oshi-first-journey
-[1]Lista       |12:36:05 | 12-10-2026| watch [1/1] farming oshi-first-journey...
-[1]Lista       |12:36:06 | 12-10-2026| watch oshi-first-journey: mulai dari 0 (record 76.8s diabaikan)
-[1]Lista       |12:36:06 | 12-10-2026| watch oshi-first-journey: 88% (76.79/87.00s)
-[1]Lista       |12:36:13 | 12-10-2026| watch oshi-first-journey: 88% (76.79/87.00s)
-[1]Lista       |12:36:19 | 12-10-2026| watch oshi-first-journey: 88% (76.92/87.00s)
-[1]Lista       |12:36:28 | 12-10-2026| watch oshi-first-journey: 88% (76.92/87.00s)
-[1]Lista       |12:36:34 | 12-10-2026| watch oshi-first-journey: 88% (76.92/87.00s)
-[1]Lista       |12:36:40 | 12-10-2026| watch oshi-first-journey: 88% (77.21/87.00s)
-[1]Lista       |12:36:46 | 12-10-2026| watch oshi-first-journey: 88% (77.21/87.00s)
-[1]Lista       |12:36:51 | 12-10-2026| watch oshi-first-journey: 88% (77.21/87.00s)
-[1]Lista       |12:36:57 | 12-10-2026| watch oshi-first-journey: 88% (77.21/87.00s)
-[1]Lista       |12:37:04 | 12-10-2026| watch oshi-first-journey: 88% (77.21/87.00s)
-[1]Lista       |12:37:09 | 12-10-2026| watch oshi-first-journey: 88% (77.21/87.00s)
-[1]Lista       |12:37:15 | 12-10-2026| watch oshi-first-journey: 88% (77.21/87.00s)
-[1]Lista       |12:37:21 | 12-10-2026| watch oshi-first-journey: 88% (77.21/87.00s)
-[1]Lista       |12:37:27 | 12-10-2026| watch oshi-first-journey: 88% (77.21/87.00s)
-[1]Lista       |12:37:33 | 12-10-2026| watch oshi-first-journey: 92% (80.40/87.00s)
-[1]Lista       |12:37:33 | 12-10-2026| watch oshi-first-journey: COMPLETED (80.40/87.00s)
+[1]Lista       |12:20:05 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Lista       |12:20:05 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Lista       |12:20:07 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Lista       |12:20:12 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Lista       |12:20:15 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Lista       |12:20:20 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Lista       |12:20:22 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Lista menjalankan: Read Article
-[1]Lista       |12:37:34 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Lista       |12:37:34 | 12-10-2026| mint eligibility: {"userId":"1748258748857233408","youtube":{"url":"https://www.youtube.com/@listanatalie","status":"submitted","revision":"4af36ee7-73f0-4594-bb54-74b58de7fe0b","submittedAt":1791671074,"reviewedAt":17
-[1]Lista       |12:37:34 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Lista       |12:20:23 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Lista       |12:20:24 | 13-10-2026| mint eligibility: {"userId":"1748258748857233408","youtube":{"url":"https://www.youtube.com/@listanatalie","status":"submitted","revision":"4af36ee7-73f0-4594-bb54-74b58de7fe0b","submittedAt":1791671074,"reviewedAt":17
+[1]Lista       |12:20:24 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Lista menjalankan: Quiz Anime
-[1]Lista       |12:37:35 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Lista       |12:37:35 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Lista       |12:37:35 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Lista       |12:37:35 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Lista       |12:37:35 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Lista       |12:37:35 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Lista       |12:20:24 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Lista       |12:20:24 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Lista       |12:20:24 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Lista       |12:20:24 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Lista       |12:20:24 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Lista       |12:20:24 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Lista menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lista       |12:37:37 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Lista       |12:37:37 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Lista       |12:37:37 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lista       |12:37:37 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lista       |12:20:25 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Lista       |12:20:26 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Lista       |12:20:26 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lista       |12:20:26 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lista menjalankan: Claim Missions
-[1]Lista       |12:37:38 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Lista       |12:37:38 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lista       |12:37:38 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lista       |12:20:27 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Lista       |12:20:27 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lista       |12:20:27 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lista menjalankan: Check Eligibility
 
 --- eligibility [1]Lista ---
-  @listaanatalie | score=990 rank=6185
-  tasks    [##################--] 71/80
+  @listaanatalie | score=1090 rank=5607
+  tasks    [###################-] 74/78
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -88,17 +67,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=true mintOpen=false discord=true
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Lista menjalankan: Read Manga
-[1]Lista       |12:37:41 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Lista       |12:20:32 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Lista menjalankan: Get Gift
-[1]Lista       |12:37:41 | 12-10-2026| gift: 0/3 belum diterima
+[1]Lista       |12:20:32 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Lista menjalankan: Setup Profile
-[1]Lista       |12:37:42 | 12-10-2026| profile: bio="https://x.com/listaanatalie" fav=kagura rewardAt=1791689222
-[1]Lista       |12:37:42 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Lista       |12:20:33 | 13-10-2026| profile: bio="https://x.com/listaanatalie" fav=kagura rewardAt=1791689222
+[1]Lista       |12:20:33 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Lista menjalankan: Bind Wallet
-[1]Lista       |12:37:42 | 12-10-2026| wallet: sudah terikat EEaANBWAc2... (solana)
+[1]Lista       |12:20:33 | 13-10-2026| wallet: sudah terikat EEaANBWAc2... (solana)
 
 == RINGKASAN ==
-- Lista: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
+- Lista: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
