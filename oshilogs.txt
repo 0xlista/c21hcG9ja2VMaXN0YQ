@@ -12,79 +12,67 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lista =====
-[1]Lista       |09:19:20 | 24-10-2026| login OK @listaanatalie | score=1880 rank=4028
-[1]Lista       |09:19:20 | 24-10-2026| serverTime=2026-10-24T09:19:20.000Z local=2026-10-24T09:19:20.667Z
+[1]Lista       |05:50:41 | 26-10-2026| login OK @listaanatalie | score=2120 rank=3594
+[1]Lista       |05:50:41 | 26-10-2026| serverTime=2026-10-26T05:50:41.000Z local=2026-10-26T05:50:41.553Z
 --> [1]Lista menjalankan: Claim Daily
-[1]Lista       |09:19:21 | 24-10-2026| daily: OK +10 poin score=1890
---> [1]Lista menjalankan: Auto All Tasks (10 pending)
-[1]Lista       |09:19:24 | 24-10-2026| [1/10] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/listaanatalie/status/2113922843190274766
-[1]Lista       |09:19:24 | 24-10-2026| delay 10s...
-[1]Lista       |09:19:37 | 24-10-2026| [2/10] b772e482 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/listaanatalie/status/2113923082172962216
-[1]Lista       |09:19:37 | 24-10-2026| delay 10s...
-[1]Lista       |09:19:50 | 24-10-2026| [3/10] 58e687d8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/listaanatalie/status/2113922837999596480
-[1]Lista       |09:19:50 | 24-10-2026| delay 10s...
-[1]Lista       |09:20:03 | 24-10-2026| [4/10] 63ae925f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/listaanatalie/status/2113922845442296444
-[1]Lista       |09:20:03 | 24-10-2026| delay 10s...
-[1]Lista       |09:20:16 | 24-10-2026| [5/10] c7d975e4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/listaanatalie/status/2113923097816705361
-[1]Lista       |09:20:16 | 24-10-2026| delay 10s...
-[1]Lista       |09:20:28 | 24-10-2026| [6/10] f59f95ce (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/listaanatalie/status/2113922961688420160
-[1]Lista       |09:20:28 | 24-10-2026| delay 10s...
-[1]Lista       |09:20:41 | 24-10-2026| [7/10] 3c2cc170 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/listaanatalie/status/2113923085501600753
-[1]Lista       |09:20:41 | 24-10-2026| delay 10s...
-[1]Lista       |09:20:54 | 24-10-2026| [8/10] 93eec591 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/listaanatalie/status/2113923247289544423
-[1]Lista       |09:20:54 | 24-10-2026| delay 10s...
-[1]Lista       |09:21:07 | 24-10-2026| [9/10] 4246c642 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756
-[1]Lista       |09:21:07 | 24-10-2026| delay 10s...
-[1]Lista       |09:21:20 | 24-10-2026| [10/10] 63f05488 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/listaanatalie/status/2113923390601694494
-[1]Lista       |09:21:20 | 24-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lista       |09:21:22 | 24-10-2026| [1/1] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113851006337568 | proof=https://x.com/listaanatalie/status/2113923393042093587
+[1]Lista       |05:50:43 | 26-10-2026| daily: OK +10 poin score=2130
+--> [1]Lista menjalankan: Auto All Tasks (8 pending)
+[1]Lista       |05:50:45 | 26-10-2026| [1/8] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/listaanatalie/status/2114594939573447230
+[1]Lista       |05:50:45 | 26-10-2026| delay 10s...
+[1]Lista       |05:50:57 | 26-10-2026| [2/8] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/listaanatalie/status/2114595196183963691
+[1]Lista       |05:50:57 | 26-10-2026| delay 10s...
+[1]Lista       |05:51:10 | 26-10-2026| [3/8] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/listaanatalie/status/2114595386957651729
+[1]Lista       |05:51:10 | 26-10-2026| delay 10s...
+[1]Lista       |05:51:22 | 26-10-2026| [4/8] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/listaanatalie/status/2114595430958120895
+[1]Lista       |05:51:22 | 26-10-2026| delay 10s...
+[1]Lista       |05:51:34 | 26-10-2026| [5/8] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/listaanatalie/status/2114595226895726103
+[1]Lista       |05:51:34 | 26-10-2026| delay 10s...
+[1]Lista       |05:51:47 | 26-10-2026| [6/8] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/listaanatalie/status/2114595349530573515
+[1]Lista       |05:51:47 | 26-10-2026| delay 10s...
+[1]Lista       |05:51:59 | 26-10-2026| [7/8] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/listaanatalie/status/2114595334722132916
+[1]Lista       |05:51:59 | 26-10-2026| delay 10s...
+[1]Lista       |05:52:11 | 26-10-2026| [8/8] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/listaanatalie/status/2114595451857584807
+[1]Lista       |05:52:11 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lista       |05:52:13 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/listaanatalie/status/2114595445353742943
 --> [1]Lista menjalankan: Watch Anime
-[1]Lista       |09:21:24 | 24-10-2026| watch: semua video sudah completed
+[1]Lista       |05:52:14 | 26-10-2026| watch: semua video sudah completed
 --> [1]Lista menjalankan: Read Article
-[1]Lista       |09:21:26 | 24-10-2026| news: 27/30 artikel selesai dibaca
-[1]Lista       |09:21:27 | 24-10-2026| mint eligibility: {"userId":"1748258748857233408","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@listanatalie","status":"submitted","revision":"4af36ee7-73f0-4594-bb54-74b58de7f
-[1]Lista       |09:21:33 | 24-10-2026| news [1/3] road-to-mint-2026-10: OK completed=28
-[1]Lista       |09:21:43 | 24-10-2026| news [2/3] community-first-update-2026-10: OK completed=29
-[1]Lista       |09:21:52 | 24-10-2026| news [3/3] oshi-nft-price-and-basic-income-01: OK completed=30
+[1]Lista       |05:52:15 | 26-10-2026| news: 30/30 artikel selesai dibaca
+[1]Lista       |05:52:16 | 26-10-2026| mint eligibility: {"userId":"1748258748857233408","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@listanatalie","status":"submitted","revision":"4af36ee7-73f0-4594-bb54-74b58de7f
+[1]Lista       |05:52:16 | 26-10-2026| news: semua artikel sudah dibaca
 --> [1]Lista menjalankan: Quiz Anime
-[1]Lista       |09:21:54 | 24-10-2026| quiz ep1: sudah dijawab
-[1]Lista       |09:21:54 | 24-10-2026| quiz ep2: sudah dijawab
-[1]Lista       |09:21:54 | 24-10-2026| quiz ep3: sudah dijawab
-[1]Lista       |09:21:54 | 24-10-2026| quiz ep4: sudah dijawab
-[1]Lista       |09:21:54 | 24-10-2026| quiz ep5: sudah dijawab
-[1]Lista       |09:21:54 | 24-10-2026| quiz ep6: sudah dijawab
 --> [1]Lista menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lista       |09:21:57 | 24-10-2026| music: kedua misi sudah tercapai, stop
-[1]Lista       |09:21:57 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Lista       |09:21:57 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lista       |09:21:57 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lista       |05:52:18 | 26-10-2026| music: kedua misi sudah tercapai, stop
+[1]Lista       |05:52:19 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Lista       |05:52:19 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lista       |05:52:19 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lista menjalankan: Claim Missions
-[1]Lista       |09:21:58 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Lista       |09:21:58 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lista       |09:21:58 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lista       |05:52:20 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Lista       |05:52:20 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lista       |05:52:20 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lista menjalankan: Check Eligibility
 
 --- eligibility [1]Lista ---
-  @listaanatalie | score=1880 rank=4028
-  tasks    [############--------] 15/25
+  @listaanatalie | score=2120 rank=3594
+  tasks    [--------------------] 0/8
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
+  quiz     [?]
   watch    [####################] 22/17
-  music    [####################] 11/11
+  music    [##################--] 11/12
   artikel  [####################] 30/30
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Lista menjalankan: Read Manga
-[1]Lista       |09:22:02 | 24-10-2026| manga: 0/13 chapter belum completed
+[1]Lista       |05:52:24 | 26-10-2026| manga: 0/13 chapter belum completed
 --> [1]Lista menjalankan: Get Gift
-[1]Lista       |09:22:03 | 24-10-2026| gift: 0/4 belum diterima
+[1]Lista       |05:52:25 | 26-10-2026| gift: 0/4 belum diterima
 --> [1]Lista menjalankan: Setup Profile
-[1]Lista       |09:22:04 | 24-10-2026| profile: bio="https://x.com/listaanatalie" fav=kagura rewardAt=1791689222
-[1]Lista       |09:22:04 | 24-10-2026| profile: bonus sudah diklaim, skip
+[1]Lista       |05:52:25 | 26-10-2026| profile: bio="https://x.com/listaanatalie" fav=kagura rewardAt=1791689222
+[1]Lista       |05:52:25 | 26-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Lista menjalankan: Bind Wallet
-[1]Lista       |09:22:04 | 24-10-2026| wallet: sudah terikat EEaANBWAc2... (solana)
+[1]Lista       |05:52:27 | 26-10-2026| wallet: sudah terikat EEaANBWAc2... (solana)
 
 == RINGKASAN ==
-- Lista: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 3 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Lista: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
